@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hey there! 👋
+Im Leif, a design engineer, from Singapore.
+
+I design and build whatever I imagine.
+
+If an idea pops into my head, chances are I'll build it.
+
+My main tech stack is UI Designing and scripting. My favorite tools are Figma, VS Code, and Roblox Studio.
+
+I've built lots of UI's for my game, but my favorite is this zombie game me and my team are making.
+
+## Fun Fact:
+  • I have carpal tunnel syndrome.
+  • Jujutsu Kaisen is my favorite anime.
+  • ## Hobbies: anime, creating UI, building things.
 
 <!--
 **LeifStoout/Leifstoout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
