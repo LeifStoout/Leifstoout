@@ -10,8 +10,9 @@ My main tech stack is UI Designing and scripting. My favorite tools are Figma, V
 I've built lots of UI's for my game, but my favorite is this zombie game me and my team are making.
 
 ## Fun Fact:
-  • I have carpal tunnel syndrome.
-  • Jujutsu Kaisen is my favorite anime.
+• I have carpal tunnel syndrome;
+
+• Jujutsu Kaisen is my favorite anime.
   
 ## Hobbies:
   • anime,
