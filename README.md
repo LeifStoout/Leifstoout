@@ -9,6 +9,8 @@ My main tech stack is UI Designing and scripting. My favorite tools are Figma, V
 
 I've built lots of UI's for my game, but my favorite is this Forsaken like ASYM Game, taking place in Spain and a long time ago.
 
+![biggaboy212's Stats](https://github-readme-stats.vercel.app/api?username=biggaboy212&theme=dark&show_icons=true&hide_border=true&count_private=true) ![biggaboy212's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biggaboy212&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ## Fun Fact:
 • I have carpal tunnel syndrome;
 
