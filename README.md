@@ -18,7 +18,10 @@ I've built lots of UI's for my game, but my favorite is this Forsaken like ASYM 
   • anime,
   • creating UI,
   • and building things.
-  
+
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=lua,cs)](https://skillicons.dev)
 
 <!--
 **LeifStoout/Leifstoout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
