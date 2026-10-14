@@ -7,7 +7,7 @@ If an idea pops into my head, chances are I'll build it.
 
 My main tech stack is UI Designing and scripting. My favorite tools are Figma, VS Code, and Roblox Studio.
 
-I've built lots of UI's for my game, but my favorite is this zombie game me and my team are making.
+I've built lots of UI's for my game, but my favorite is this Forsaken like ASYM Game, taking place in Spain and a long time ago.
 
 ## Fun Fact:
 • I have carpal tunnel syndrome;
