@@ -21,7 +21,7 @@ I've built lots of UI's for my game, but my favorite is this Forsaken like ASYM 
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=lua,cs)])
+[![My Skills](https://skillicons.dev/icons?i=lua)
 
 <!--
 **LeifStoout/Leifstoout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
