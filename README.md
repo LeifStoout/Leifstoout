@@ -1,5 +1,5 @@
 ## Hey there! 👋
-Im Leif, a design engineer, from Singapore.
+Im Benda, a design engineer, from Singapore. ( I set the wrong username 😭 )
 
 I design and build whatever I imagine.
 
@@ -27,7 +27,7 @@ I've built lots of UI's for my game, but my favorite is this Forsaken like ASYM 
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,robloxstudio,blender,react)](https://skillicons.dev)
 
 <!--
 **LeifStoout/Leifstoout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
