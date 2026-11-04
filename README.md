@@ -1,4 +1,17 @@
-## Hey there! 👋
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
+
 Im Benda, a design engineer, from Singapore. ( I set the wrong username 😭 )
 
 I design and build whatever I imagine.
@@ -7,9 +20,7 @@ If an idea pops into my head, chances are I'll build it.
 
 My main tech stack is UI Designing and scripting. My favorite tools are Figma, VS Code, and Roblox Studio.
 
-I've built lots of UI's for my game, but my favorite is this Forsaken like ASYM Game, taking place in Spain and a long time ago.
-
-![CoreScripter's Stats](https://github-readme-stats.vercel.app/api?username=LeifStoout&theme=dark&show_icons=true&hide_border=true&count_private=true) ![CoreScripter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeifStoout&theme=dark&show_icons=true&hide_border=true&layout=compact)
+I've built lots of UI's for my game, I am working on this Forsaken like ASYM Game, cannot tell you much about it.
 
 ## Fun Fact:
 • I have carpal tunnel syndrome;
@@ -21,13 +32,49 @@ I've built lots of UI's for my game, but my favorite is this Forsaken like ASYM 
   • creating UI,
   • and building things.
 
+## Skill Set:
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/LeifStoout">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=react,robloxstudio&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
 ### Languages
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=lua,&perline=4" /> 
+</div>
+</a>
 
-![My Skills](https://skillicons.dev/icons?i=lua)
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
-### Tools
+ ## Github Stats:
+<p align="center">
+    <a href="https://github.com/tayyabadev">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tayyabadev&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tayyabadev&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,robloxstudio,blender,react)](https://skillicons.dev)
+  <img src="https://komarev.com/ghpvc/?username=tayyabdev&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+
+
 
 <!--
 **LeifStoout/Leifstoout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
